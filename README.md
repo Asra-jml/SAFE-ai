@@ -22,7 +22,7 @@ SAFE-ai is a fraud detection system that leverages machine learning algorithms t
 - **Streamlit**: Web application framework for the interactive UI
 - **Pandas**: Data manipulation and analysis
 - **Joblib**: Model serialization and loading
-- **Scikit-learn** (implied): Machine learning framework for model training
+- **Scikit-learn**: Machine learning framework for model training
 
 ## 📋 Prerequisites
 
@@ -156,12 +156,12 @@ Contributions, issues, and feature requests are welcome! Feel free to check the 
 
 This application is designed for educational and demonstration purposes. While the model provides predictions based on machine learning algorithms, it should not be used as the sole basis for financial decisions. Always consult with financial security experts and use multiple verification methods for critical transactions.
 
-## 📚 References
+## 📚 Additional Resources
 
-- Machine Learning for Fraud Detection
-- Financial Transaction Security
-- Streamlit Documentation
-- Scikit-learn Documentation
+- [Streamlit Documentation](https://docs.streamlit.io/)
+- [Scikit-learn Documentation](https://scikit-learn.org/stable/)
+- [Pandas Documentation](https://pandas.pydata.org/docs/)
+- [Machine Learning for Fraud Detection - Best Practices](https://en.wikipedia.org/wiki/Data_analysis_techniques_for_fraud_detection)
 
 ---
 
